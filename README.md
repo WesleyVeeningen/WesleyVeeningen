@@ -19,8 +19,8 @@ This repository serves as a portfolio of my skills and expertise in the field of
 
 If you'd like to connect or collaborate on any projects, feel free to reach out to me:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Portfolio Website: [Your Portfolio Website](https://www.your-portfolio-website.com)
+- Email: [your-email@example.com](mailto:wesleyveeningen@outlook.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wesley-veeningen/)
+- Portfolio Website: [Your Portfolio Website](https://wesleyveeningen.nl/)
 
 Let's build something amazing together! 😊

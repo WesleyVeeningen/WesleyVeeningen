@@ -21,6 +21,6 @@ If you'd like to connect or collaborate on any projects, feel free to reach out 
 
 - Email: [wesleyveeningen@outlook.com](mailto:wesleyveeningen@outlook.com)
 - LinkedIn: [Wesley Veeningen](https://www.linkedin.com/in/wesley-veeningen/)
-- Portfolio Website: [wesleyveeningen.nl]([https://wesleyveeningen.nl/](https://portfolio.wesleyveeningen.online/])
+- Portfolio Website: [wesleyveeningen.nl](https://portfolio.wesleyveeningen.online/)
 
 Let's build something amazing together! 😊
